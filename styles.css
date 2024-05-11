@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: aqua;
+    postion: relative; left: 10cm;
 }
 
 footer {
